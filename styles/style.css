@@ -93,6 +93,10 @@ address {
   letter-spacing: 30px;
 }
 
+.letter-spacing-extended {
+  letter-spacing: 60px;
+}
+
 .aligned-text_center {
   line-height: 1;
   text-align: center;
@@ -101,10 +105,6 @@ address {
 .aligned-text_right {
   line-height: 1;
   text-align: right;
-}
-
-.letter-spacing-extended {
-  letter-spacing: 60px;
 }
 
 .no-letter-spacing {
@@ -254,11 +254,11 @@ address {
   padding: 173px 50px 88px;
 }
 
-.footer .address{
-  letter-spacing: .18px;
+.footer .address {
+  letter-spacing: 0.18px;
 }
 
-.footer__address{
+.footer__address {
   max-width: 241px;
 }
 
